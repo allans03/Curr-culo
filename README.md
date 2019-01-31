@@ -1,2 +1,2 @@
-# Curr-culo
+# Currículo
 Projeto do meu currículo usando HTML e CSS
